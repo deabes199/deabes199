@@ -4,6 +4,10 @@ Hello! I'm a **Software Engineer** passionate about building intuitive and robus
 - 🌱 Currently learning advanced mobile architecture and exploring cross-platform frameworks.
 - 🔭 Actively working on projects in Flutter .
 - 💡 Always eager to collaborate on innovative mobile projects and open-source contributions.
-  ## 💼 Technical Skills
+## 💼 Technical Skills:
+- **Mobile: Flutter, Dart, Android (Kotlin)
+- **Tools**: Git, Android Studio, , Firebase
+
+  
 
 
