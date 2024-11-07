@@ -10,7 +10,10 @@ Hello! I'm a **Software Engineer** passionate about building intuitive and robus
 ## 🛠️ Tools I Use:
 - **Version Control**: Git, GitHub
 - **CI/CD**: GitHub Actions,Fastlane
-- **Visual Studio Code**: A lightweight, powerful source code editor.
+- **Visual Studio Code**: A lightweight, powerful source code editor
+# 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/ahmed-deabes-5a65522b9/)
+- [Email](ahmed.deabes199@gmail.com)
 
   
 
