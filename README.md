@@ -8,9 +8,9 @@ Hello! I'm a **Software Engineer** passionate about building intuitive and robus
 - **Mobile**: Flutter, Dart, Android (Kotlin)
 - **State Management**: BLoC, Cubit, Provider,Riverpod.
 ## 🛠️ Tools I Use:
-- Version Control: Git, GitHub
-- CI/CD: GitHub Actions,Fastlane
-- Visual Studio Code: A lightweight, powerful source code editor.
+- **Version Control**: Git, GitHub
+- **CI/CD**: GitHub Actions,Fastlane
+- **Visual Studio Code**: A lightweight, powerful source code editor.
 
   
 
