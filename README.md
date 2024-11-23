@@ -5,7 +5,7 @@ Hello! I'm a **Software Engineer** passionate about building intuitive and robus
 - 🔭 Actively working on projects in Flutter .
 - 💡 Always eager to collaborate on innovative mobile projects and open-source contributions.
 ## 💼 Technical Skills:
-- **Mobile**: Flutter, Dart, Android (Kotlin)
+- **Mobile**: Flutter, Dart
 - **State Management**: BLoC, Cubit, Provider,Riverpod.
 ## 🛠️ Tools I Use:
 - **Version Control**: Git, GitHub
