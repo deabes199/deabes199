@@ -47,7 +47,13 @@ Flutter Developer with hands-on experience in building cross-platform mobile app
 - Bachelor of Science at Al-Azhar University (2018-2022)
 
 ## 💼 Experience
-### Flutter Developer at Hwzn (Aug 2024 - Present)
+
+### Flutter Developer at GST (May 2025 - Present)
+- Building and maintaining cross-platform mobile applications
+- Implementing new features and functionalities
+- Collaborating with the development team on mobile solutions
+
+### Flutter Developer at Hwzn (Aug 2024 - Apr 2025)
 - Developed and maintained cross-platform mobile applications using Flutter and Dart
 - Ensured smooth and responsive user experiences on both Android and iOS
 - Integrated RESTful APIs, Firebase, and third-party services
@@ -60,6 +66,12 @@ A marketplace app for Saudi Arabia that simplifies selling used personal items.
 - 🛍️ Simple and safe platform for buying and selling used items
 - 🌟 Available on both iOS and Android platforms
 - 🔗 [App Store](https://apps.apple.com/eg/app/malbos/id6736588728) | [Google Play](https://play.google.com/store/apps/details?id=com.hwzn.malboos)
+
+### 💳 Souq Mazad
+A digital marketplace for auctions and trading.
+- 🔥 Dynamic auction platform
+- 🌟 Cross-platform availability
+- 🔗 [App Store](https://apps.apple.com/eg/app/souq-mazad/id1644750171) | [Google Play](https://play.google.com/store/apps/details?id=com.engazTech.mazad)
 
 ### 💅 Pink World
 A comprehensive beauty services booking application.
